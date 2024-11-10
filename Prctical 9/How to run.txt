@@ -1,0 +1,4 @@
+set jar file to class path
+run the 1st part of the sql file
+and in the Prctical 9\src\Java_mysql\connect.java
+run it by chaning the password variable 
